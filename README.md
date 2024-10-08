@@ -22,4 +22,6 @@ This project serves as a learning opportunity for common data engineering practi
 - Imported the dataset using Microsoft SQL Server Management Studio.
 - ![Insert Image](https://github.com/Manjusree-Azure/End-to-End-data-engineering-project/blob/main/Source%20Data_AdventureWorksLT2017.png)
 
+- ## 1: Resource Setup for the Project
+
 

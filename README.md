@@ -32,7 +32,7 @@ Data ingestion from the on-premises SQL server to Azure SQL is accomplished via 
 1. Installation of Self-Hosted Integration Runtime.
  
 3. Establishing a connection between Azure Data Factory and the local SQL Server.
-4. Setting up a copy pipeline to transfer all tables from the local SQL server to the Azure Data Lake's "bronze" folder.
+4. Setting up a copy pipeline to transfer all tables from the local SQL server to the Azure Data Lake's "bronze/RootLayer" folder.
 
 - ![Insert Image](https://github.com/Manjusree-Azure/End-to-End-data-engineering-project/blob/main/Self%20Hosted%20integration%20runtime.png)
  

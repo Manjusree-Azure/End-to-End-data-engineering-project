@@ -35,6 +35,10 @@ Data ingestion from the on-premises SQL server to Azure SQL is accomplished via 
 4. Setting up a copy pipeline to transfer all tables from the local SQL server to the Azure Data Lake's "bronze/RootLayer" folder.
 
 - ![Insert Image](https://github.com/Manjusree-Azure/End-to-End-data-engineering-project/blob/main/Self%20Hosted%20integration%20runtime.png)
+
+- Data in Azure data lake Gen 2
+- ![Insert Image](https://github.com/Manjusree-Azure/End-to-End-data-engineering-project/blob/main/Ingest%20data%20in%20ADLGen2.png)
+
  
 
 

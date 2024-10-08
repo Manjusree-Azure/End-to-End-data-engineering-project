@@ -60,6 +60,7 @@ Azure Databricks, using PySpark, is used for these transformations. Data initial
 
 ## 4: Completed Pipeline
 Azure Data Factory is updated to execute the "bronze" to "silver" and "silver" to "gold" notebooks automatically with each pipeline run.
+
 ![Insert Image](https://github.com/Manjusree-Azure/End-to-End-data-engineering-project/blob/main/ADF%20pipeline.png)
 
    

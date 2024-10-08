@@ -39,6 +39,10 @@ Data ingestion from the on-premises SQL server to Azure SQL is accomplished via 
 - Data in Azure data lake Gen 2
 - ![Insert Image](https://github.com/Manjusree-Azure/End-to-End-data-engineering-project/blob/main/Ingest%20data%20in%20ADLGen2.png)
 
+- - ## : Data Ingestion using ADF pipeline using lookup and forEach activity
+  - - ![Insert Image](https://github.com/Manjusree-Azure/End-to-End-data-engineering-project/blob/main/ADF%20pipeline.png)
+
+
  
 
 

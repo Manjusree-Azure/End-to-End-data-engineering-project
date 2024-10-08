@@ -81,6 +81,20 @@ Power BI connects directly to the cloud pipeline using DirectQuery to dynamicall
 
 ![power bi gif](https://github.com/Manjusree-Azure/End-to-End-data-engineering-project/blob/main/gif.gif)
 
+## 7: Final Pipeline Test
+
+To verify the end-to-end pipeline, two new customers are added to the local SQL database server. If successful, the pipeline will update, and the Power BI report will dynamically show the new data. The total number of customers should increase from 847 to 849.
+
+## Conclusion and Limitations
+
+This project demonstrates the ability to create an end-to-end ETL cloud solution using Azure. Some considerations:
+
+- The dataset used was small (7mb total, 800 rows). This was done to keep compute + storage costs low for myself.
+- Multiple applications were employed for a relatively simple task.
+- Given the dataset's simplicity, the project could have been managed entirely through Azure Data Factory, with data cleaning done downstream in Power BI.
+- The inclusion of Azure Synapse and Databricks was for the sake of self-learning and emulating real-world business pipelines.
+
+
 
    
     

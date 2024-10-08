@@ -42,7 +42,7 @@ Data ingestion from the on-premises SQL server to Azure SQL is accomplished via 
 - - ## : Data Ingestion using ADF pipeline using lookup and forEach activity
   - - ![Insert Image](https://github.com/Manjusree-Azure/End-to-End-data-engineering-project/blob/main/ADF%20pipeline.png)
 
-## 2: Data Transformation
+## 3: Data Transformation
 
 After ingesting data into the "bronze/Rootlayer" folder, it is transformed following the medallion data lake architecture (bronze, silver, gold). Data transitions through bronze, silver, and ultimately gold, suitable for business reporting tools like Power BI.
 
@@ -58,6 +58,7 @@ Azure Databricks, using PySpark, is used for these transformations. Data initial
 
 ![Databricks Notebooks](https://github.com/Manjusree-Azure/End-to-End-data-engineering-project/blob/main/silver%20to%20gold.ipynb)
 
+## 4: Completed Pipeline
 Azure Data Factory is updated to execute the "bronze" to "silver" and "silver" to "gold" notebooks automatically with each pipeline run.
 ![Insert Image](https://github.com/Manjusree-Azure/End-to-End-data-engineering-project/blob/main/ADF%20pipeline.png)
 

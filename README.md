@@ -73,6 +73,13 @@ Data from the "gold" folder is loaded into the Business Intelligence reporting a
 
 ![Insert Image](https://github.com/Manjusree-Azure/End-to-End-data-engineering-project/blob/main/Data%20Loading%20Using%20Azure%20Synapse%20Analytics.png)
 
+
+## 6: Data Reporting
+
+Power BI connects directly to the cloud pipeline using DirectQuery to dynamically update the database. A Power BI report is developed to visualize AdventureWorks dataset data, including sales, product information, and customer gender.
+
+
+
    
     
 

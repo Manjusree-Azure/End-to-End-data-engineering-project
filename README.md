@@ -8,4 +8,5 @@ Thanks to [Mr. K Talks Tech](https://www.youtube.com/@mr.ktalkstech) for the pro
 ## Business Objective
 
 This project serves as a learning opportunity for common data engineering practices, focusing on ETL pipeline techniques. The skills sharpened here are valuable for small to medium-sized businesses aiming to migrate their local data to the cloud.
-![Insert Image]https://github.com/Manjusree-Azure/End-to-End-data-engineering-project/blob/main/Project%20Architecture.png
+
+![Insert Image](https://github.com/Manjusree-Azure/End-to-End-data-engineering-project/blob/main/Project%20Architecture.png)

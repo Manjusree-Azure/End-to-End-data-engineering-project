@@ -63,6 +63,14 @@ Azure Data Factory is updated to execute the "bronze" to "silver" and "silver" t
 
 ![Insert Image](https://github.com/Manjusree-Azure/End-to-End-data-engineering-project/blob/main/ADF%20pipeline.png)
 
+## 5: Data Loading
+
+Data from the "gold" folder is loaded into the Business Intelligence reporting application, Power BI. Azure Synapse is used for this purpose. The steps involve:
+
+1. Creating a link from Azure Storage (Gold Folder) to Azure Synapse.
+2. Writing stored procedures to extract table information as a SQL view.
+3. Storing views within a server-less SQL Database in Synapse.
+
    
     
 

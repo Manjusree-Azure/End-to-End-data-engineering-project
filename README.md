@@ -71,6 +71,8 @@ Data from the "gold" folder is loaded into the Business Intelligence reporting a
 2. Writing stored procedures to extract table information as a SQL view.
 3. Storing views within a server-less SQL Database in Synapse.
 
+ ![Insert Image](https://github.com/Manjusree-Azure/End-to-End-data-engineering-project/blob/Data%20Loading%20Using%20Azure%20Synapse%20Analytics.png)
+
    
     
 
